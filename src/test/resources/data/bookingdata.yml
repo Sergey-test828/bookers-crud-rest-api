@@ -1,0 +1,9 @@
+
+  firstname: John
+  lastname: Doe
+  totalprice: 123
+  depositpaid: true
+  bookingdates:
+    checkin: '2020-01-01'
+    checkout: '2020-01-03'
+  additionalneeds: Diner
